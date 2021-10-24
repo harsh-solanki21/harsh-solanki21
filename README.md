@@ -11,7 +11,7 @@ Fresher with excellent problem-solving and complexity analysis skills. The abili
 - Tools and Technologies: React JS, Node JS, Express JS, MongoDB, MySQL, PostgreSQL, Git, GitHub, Linux/Unix, Visual Studio Code, Eclipse, IntelliJ IDEA <br>
 
 <h1>Achievements and Certificates</h1>
-👨🏽‍💻 <a href="https://www.codechef.com/users/harshsol" target="_blank">CodeChef 3⭐</a> <br>
+👨🏽‍💻 <a href="https://www.codechef.com/users/harshsol" target="_blank">CodeChef  3⭐</a> <br>
 ✨ <a href="https://leetcode.com/harsh2105/" target="_blank">LeetCode</a> <br> 
 ⚡ <a href="https://media.geeksforgeeks.org/courses/certificates/3d04c35032167da040fdb2811f20f94c.pdf" target="_blank">Geeksforgeeks Certification for Low-Level Design (LLD)</a> <br>
 
