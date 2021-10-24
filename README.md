@@ -11,10 +11,10 @@ Fresher with excellent problem-solving and complexity analysis skills. The abili
 - Tools and Technologies: React JS, Node JS, Express JS, MongoDB, MySQL, PostgreSQL, Git, GitHub, Linux/Unix, Visual Studio Code, Eclipse, IntelliJ IDEA <br>
 
 <h1>Interests and Hobbies</h1>
-♙ [Chess](https://www.chess.com/member/harshstriker) <br>
+♙ [Chess](#https://www.chess.com/member/harshstriker) <br>
 💻 Latest Tech
 
 <h1>Achievements and Certificates</h1>
-👨🏽‍💻 [CodeChef](https://www.codechef.com/users/harshsol)  3⭐ <br>
-✨ [LeetCode](https://leetcode.com/harsh2105/) <br> 
-⚡ [Geeksforgeeks Certification for Low-Level Design (LLD)](https://media.geeksforgeeks.org/courses/certificates/3d04c35032167da040fdb2811f20f94c.pdf) <br>
+👨🏽‍💻 [CodeChef](#https://www.codechef.com/users/harshsol)  3⭐ <br>
+✨ [LeetCode](#https://leetcode.com/harsh2105/) <br> 
+⚡ [Geeksforgeeks Certification for Low-Level Design (LLD)](#https://media.geeksforgeeks.org/courses/certificates/3d04c35032167da040fdb2811f20f94c.pdf) <br>
