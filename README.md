@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Harsh Solanki</h1>
 
-I am _Harsh Solanki_. I am 2022 Grad Software Engineer with strong DSA and Development knowledge with Master of Science in Information Technology degree from 🏫 Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. <br>
-I am an experienced developer skilled in Java, C++ and Full Stack Development in MERN Stack.
+- I am _Harsh Solanki_. I am 2022 Grad Software Engineer with strong DSA and Development knowledge with Master of Science in Information Technology degree from 🏫 Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. <br>
+- I am an experienced developer skilled in Java, C++ and Full Stack Development in MERN Stack.
 
 <!--
 ## My Skills
@@ -51,7 +51,7 @@ I am an experienced developer skilled in Java, C++ and Full Stack Development in
 ## You can reach out to me via [LinkedIn](https://www.linkedin.com/in/harshsolanki2105) 📫
 
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭 for the world🌍!
+- You can ask me anything (within reason). I am looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭 for the world🌍!
 
 
 <p align="center"> 
