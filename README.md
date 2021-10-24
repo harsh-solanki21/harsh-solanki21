@@ -6,9 +6,9 @@ looking for an Internship
 Fresher with excellent problem-solving and complexity analysis skills. The ability to acquire new skills faster and adapt quickly fastpaced development environment and also strong in Data Structures, Algorithm Design, and object-oriented design.
 
 <h1>My Skills</h1>
-* Expertise Area/Area(s) of Interest: Data Structures and Algorithms, Object-Oriented Programming(OOP), Web Development
-* Programming Languages: java, C++, JavaScript
-* Tools and Technologies: React JS, Node JS, Express JS, MongoDB, MySQL, PostgreSQL, Git, GitHub, Linux/Unix, Visual Studio Code, Eclipse, IntelliJ IDEA
+- Expertise Area/Area(s) of Interest: Data Structures and Algorithms, Object-Oriented Programming(OOP), Web Development <br>
+- Programming Languages: java, C++, JavaScript <br>
+- Tools and Technologies: React JS, Node JS, Express JS, MongoDB, MySQL, PostgreSQL, Git, GitHub, Linux/Unix, Visual Studio Code, Eclipse, IntelliJ IDEA <br>
 
 <h1>Work Experience</h1>
 
