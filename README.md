@@ -12,6 +12,7 @@ Fresher with excellent problem-solving and complexity analysis skills. The abili
 
 <h1>Interests and Hobbies</h1>
 ♙ [Chess](https://www.chess.com/member/harshstriker) <br>
+<a href="https://www.chess.com/member/harshstriker" target="_blank">Chess</a>
 💻 Latest Tech
 
 <h1>Achievements and Certificates</h1>
