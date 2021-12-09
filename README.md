@@ -38,7 +38,8 @@
 -->
 
 # 🌈 Skills
-![github](https://user-images.githubusercontent.com/52111635/145453737-670588e7-e61e-49bf-9ac7-22a3fa6f4a33.png)
+![tech](https://user-images.githubusercontent.com/52111635/145456921-9b039bb3-d33c-49c8-9262-462beefec799.png)
+
 
 # My Best Projects
 - [Sorting Visualizer](https://github.com/harsh-solanki21/sorting-visualizer)
