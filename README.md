@@ -37,7 +37,7 @@
 ## Achievements and Certificates
 -->
 
-# Skills
+# 🌈 Skills
 ![github](https://user-images.githubusercontent.com/52111635/145453737-670588e7-e61e-49bf-9ac7-22a3fa6f4a33.png)
 
 ## Coding Profiles
