@@ -40,6 +40,12 @@
 # 🌈 Skills
 ![github](https://user-images.githubusercontent.com/52111635/145453737-670588e7-e61e-49bf-9ac7-22a3fa6f4a33.png)
 
+# My Best Projects
+- [Sorting Visualizer](https://github.com/harsh-solanki21/sorting-visualizer)
+- [URL Shortener](https://github.com/harsh-solanki21/url-shortener)
+- [BookMyShow Low-Level-Design](https://github.com/harsh-solanki21/BookMyShow-LLD)
+- [Poll Simulator](https://github.com/harsh-solanki21/poll-simulator)
+
 ## Coding Profiles
 👨🏽‍💻 [CodeChef](https://www.codechef.com/users/harshsol) 3⭐ <br>
 ✨ [LeetCode](https://leetcode.com/harsh2105/) <br> 
