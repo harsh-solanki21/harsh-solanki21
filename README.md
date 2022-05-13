@@ -45,7 +45,7 @@
 # My Best Projects
 - [Sorting Visualizer](https://github.com/harsh-solanki21/sorting-visualizer)
 - [URL Shortener](https://github.com/harsh-solanki21/url-shortener)
-- [E-commerce(Amazon) Low-Level-Design](https://github.com/harsh-solanki21/amazon-LLD)
+- [E-commerce(Amazon) Low-Level-Design](https://github.com/harsh-solanki21/Amazon-LLD)
 - [Password Generator](https://github.com/harsh-solanki21/password-generator)
 
 ## Coding Profiles
