@@ -2,6 +2,7 @@
 
 - I am _Harsh Solanki_. I am 2022 Grad Software Engineer with strong DSA and Development knowledge with Master of Science in Information Technology degree from 🏫 Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar. <br>
 - I am an experienced developer skilled in Java, C++ and Full Stack Development in MERN Stack.
+- I also have a sound knowledge in DevOps and Testing.
 
 <!--
 ## My Skills
@@ -44,8 +45,8 @@
 # My Best Projects
 - [Sorting Visualizer](https://github.com/harsh-solanki21/sorting-visualizer)
 - [URL Shortener](https://github.com/harsh-solanki21/url-shortener)
-- [BookMyShow Low-Level-Design](https://github.com/harsh-solanki21/BookMyShow-LLD)
-- [Poll Simulator](https://github.com/harsh-solanki21/poll-simulator)
+- [E-commerce(Amazon) Low-Level-Design](https://github.com/harsh-solanki21/amazon-LLD)
+- [Password Generator](https://github.com/harsh-solanki21/password-generator)
 
 ## Coding Profiles
 👨🏽‍💻 [CodeChef](https://www.codechef.com/users/harshsol) 3⭐ <br>
@@ -62,7 +63,7 @@
 ## You can reach out to me via [LinkedIn](https://www.linkedin.com/in/harshsolanki2105) 📫
 
 
-- You can ask me anything (within reason). I am looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭 for the world🌍!
+- I am looking forward to absorb knowledge🧠, gain experience 🏭, collaborate🤝 and build amazing products 🏭 for the world🌍!
 
 
 <p align="center"> 
