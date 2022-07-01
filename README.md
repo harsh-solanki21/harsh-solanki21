@@ -38,15 +38,18 @@
 ## Achievements and Certificates
 -->
 
+</br>
+
 # 🌈 Skills
 ![tech](https://user-images.githubusercontent.com/52111635/145456921-9b039bb3-d33c-49c8-9262-462beefec799.png)
 
 
-# My Best Projects
+# My Flagship Projects
 - [Sorting Visualizer](https://github.com/harsh-solanki21/sorting-visualizer)
 - [URL Shortener](https://github.com/harsh-solanki21/url-shortener)
 - [E-commerce(Amazon) Low-Level-Design](https://github.com/harsh-solanki21/Amazon-LLD)
 - [Password Generator](https://github.com/harsh-solanki21/password-generator)
+
 
 ## Coding Profiles
 👨🏽‍💻 [CodeChef](https://www.codechef.com/users/harshsol) 3⭐ <br>
