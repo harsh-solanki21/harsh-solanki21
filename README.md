@@ -147,6 +147,10 @@ Description goes here
 <br /><br />
 
 ## Contact me 📫📧
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsolanki2105)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.solanki2105@gmail.com)
+
+<!--
 <a href="https://www.linkedin.com/in/harshsolanki2105">
      <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/7b90d4f5-ded4-47ef-9d73-7f0593f5b198" width="50" height="50" alt="LinkedIn" />
 </a>
@@ -154,6 +158,7 @@ Description goes here
 <a href="mailto:harsh.solanki2105@gmail.com">
      <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/b835d235-b2a4-4c18-868c-606fb82ea715" width="50" height="40" alt="Gmail" />
 </a>
+-->
 
 <br /><br />
 
