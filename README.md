@@ -34,6 +34,12 @@ Description goes here
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/40024c08-22c2-49ba-bdd4-03f9367d6176" width="65" height="70" alt="CPP" />
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8ffeb822-157f-40ce-8d26-d95ca84dd3b6" width="65" height="70" alt="C" />
+<!--
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f0fd0b16-19e0-484b-823e-cf1f640847c0" width="180" height="60" alt="Go" />
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/ead734d8-b7ee-4b0a-92fd-68f8fe3807e8" width="70" height="70" alt="Python" />
+-->
 <br /> <br />
 
 
@@ -55,39 +61,33 @@ Description goes here
 ### Databases
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/e39ed90f-92b7-43d6-88e7-3dd0edea7c23" width="180" height="70" alt="MongoDB" />
 &nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/382a22ca-8df8-40fa-b698-7e3e1704ae6e" width="100" height="70" alt="Cassandra" />
-&nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f28db8b5-e0f1-4e55-9859-3904d2b58406" width="70" height="70" alt="PostgreSQL" />
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/119d7ba0-79c8-4f8e-90f2-603a06cdfdbc" width="70" height="70" alt="SQL" />
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/3e8b090b-7d3c-4adf-b5e9-fdb1668f0ce7" width="80" height="70" alt="Redis" />
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/382a22ca-8df8-40fa-b698-7e3e1704ae6e" width="100" height="70" alt="Cassandra" />
 <br /> <br />
 
 
 ### API Architectural Styles
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c1aed4f1-ac15-4eaa-bf8b-cb49f824f29a" width="150" height="70" alt="RESTful API" />
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c1aed4f1-ac15-4eaa-bf8b-cb49f824f29a" width="170" height="70" alt="RESTful API" />
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8583b3cb-2acb-4e41-9076-5d0b2c1dc4d8" width="70" height="70" alt="GraphQL" />
+<!--
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/b6f6b6a1-86d6-40a9-ad02-02cabe381093" width="200" height="60" alt="trpc" />
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/95ca401d-27f8-47cc-83ec-046099b5b990" width="150" height="100" alt="grpc" />
+-->
 <br /> <br />
 
 
-### Microservices & DevOps
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/321fdc54-1c57-4489-ac17-d23f61781be6" width="150" height="70" alt="Kafka" />
+### DevOps & Microservices
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/edf35d23-fd56-4c65-be7b-d0ffd0d192b5" width="80" height="80" alt="Docker" />
 &nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/edf35d23-fd56-4c65-be7b-d0ffd0d192b5" width="80" height="70" alt="Docker" />
-&nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c4f79305-6f64-428b-ae7c-0da435fed673" width="300" height="60" alt="Kubernetes" />
-&nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/ead734d8-b7ee-4b0a-92fd-68f8fe3807e8" width="70" height="70" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c54f86e2-153b-48d0-b18e-9d7603b924f0" width="120" height="70" alt="AWS" />
-&nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/eb527fa0-29a4-47c3-862f-dfa0aeed12a4" width="200" height="70" alt="CICD" />
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8a03af52-1a37-4a31-897c-740f3ce348a1" width="80" height="80" alt="Kubernetes" />
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c8b6e99a-8af1-4849-bac8-89b41716ad5e" width="70" height="70" alt="Prometheus" />
 &nbsp;&nbsp;
@@ -95,9 +95,21 @@ Description goes here
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/50f7e6e5-868f-4e67-8a11-5f3eafc5219a" width="120" height="70" alt="Grafana Loki" />
 &nbsp;&nbsp;
-<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/54480876-65dc-4650-99e2-d6d84df2629a" width="300" height="70" alt="Terraform" />
-&nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/454949d5-15f8-420e-a0ab-ffb4782e6acd" width="60" height="70" alt="Jenkins" />
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f79ef476-ec97-4335-8890-ff1be5833cf2" width="70" height="70" alt="Ansible" />
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/77f63f0f-be06-4bd7-942a-e16c7cae8d27" width="80" height="80" alt="Terraform" />
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/eb527fa0-29a4-47c3-862f-dfa0aeed12a4" width="200" height="70" alt="CICD" />
+&nbsp;&nbsp;
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/321fdc54-1c57-4489-ac17-d23f61781be6" width="150" height="70" alt="Kafka" />
+<br /> <br />
+
+
+### Cloud
+<img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c54f86e2-153b-48d0-b18e-9d7603b924f0" width="120" height="70" alt="AWS" />
+&nbsp;&nbsp;
 <br /> <br />
 
 
@@ -147,8 +159,9 @@ Description goes here
 <br /><br />
 
 ## Contact me 📫📧
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsolanki2105)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.solanki2105@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsolanki2105)
+[![X (formerly Twitter) URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harsh_thedev)
 
 <!--
 <a href="https://www.linkedin.com/in/harshsolanki2105">
