@@ -30,23 +30,19 @@ Description goes here
 
 ### Programming
 <a href="" target="_blank" title="Java" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f048e517-194a-4a5b-811d-d9d6e98beaa5" width="50" height="80" alt="Java" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f048e517-194a-4a5b-811d-d9d6e98beaa5" width="30" height="50" alt="Java" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="CPP" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/40024c08-22c2-49ba-bdd4-03f9367d6176" width="65" height="70" alt="CPP" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/40024c08-22c2-49ba-bdd4-03f9367d6176" width="40" height="40" alt="CPP" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="C" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8ffeb822-157f-40ce-8d26-d95ca84dd3b6" width="65" height="70" alt="C" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8ffeb822-157f-40ce-8d26-d95ca84dd3b6" width="40" height="40" alt="C" />
 </a>
-&nbsp;&nbsp;
 
-<a href="" target="_blank" title="Golang" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f0fd0b16-19e0-484b-823e-cf1f640847c0" width="180" height="60" alt="Go" />
-</a>
 <!--
 &nbsp;&nbsp;
 <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/ead734d8-b7ee-4b0a-92fd-68f8fe3807e8" width="70" height="70" alt="Python" />
@@ -56,29 +52,33 @@ Description goes here
 
 ### Development
 <a href="" target="_blank" title="NodeJS" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/ab030923-4f4b-4d82-b58c-a41a7b3e5810" width="100" height="70" alt="NodeJS" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/ab030923-4f4b-4d82-b58c-a41a7b3e5810" width="70" height="40" alt="NodeJS" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="ExpressJS" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8648fe6d-9171-4e97-9102-0862f54dbce3" width="200" height="70" alt="ExpressJS" />
+  <img src="https://github.com/harsh-solanki21/coding/assets/52111635/a81de104-3a30-4ba1-a7e1-d77ff98769a7" width="40" height="40" alt="ExpressJS" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="ReactJS" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/5568c210-ebcd-4fb4-a6e5-19da72f1ed46" width="70" height="70" alt="ReactJS" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="JavaScript" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/449f4c15-b288-44a2-ac0d-14363d61a769" width="65" height="70" alt="JavaScript" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/5568c210-ebcd-4fb4-a6e5-19da72f1ed46" width="40" height="40" alt="ReactJS" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="TypeScript" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/a30bba68-797c-4bd4-8f6c-b1417ab36347" width="65" height="70" alt="TypeScript" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/a30bba68-797c-4bd4-8f6c-b1417ab36347" width="40" height="40" alt="TypeScript" />
 </a>
 &nbsp;&nbsp;
+
+<a href="" target="_blank" title="JavaScript" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/449f4c15-b288-44a2-ac0d-14363d61a769" width="40" height="40" alt="JavaScript" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Golang" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f0fd0b16-19e0-484b-823e-cf1f640847c0" width="100" height="40" alt="Go" />
+</a>
 
 <!--
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
@@ -90,22 +90,22 @@ Description goes here
 
 ### Databases
 <a href="" target="_blank" title="MongoDB" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/e39ed90f-92b7-43d6-88e7-3dd0edea7c23" width="180" height="70" alt="MongoDB" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/e39ed90f-92b7-43d6-88e7-3dd0edea7c23" width="150" height="40" alt="MongoDB" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="PostgreSQL" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f28db8b5-e0f1-4e55-9859-3904d2b58406" width="70" height="70" alt="PostgreSQL" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f28db8b5-e0f1-4e55-9859-3904d2b58406" width="40" height="40" alt="PostgreSQL" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="SQL" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/119d7ba0-79c8-4f8e-90f2-603a06cdfdbc" width="70" height="70" alt="SQL" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/119d7ba0-79c8-4f8e-90f2-603a06cdfdbc" width="40" height="40" alt="SQL" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="Redis" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/3e8b090b-7d3c-4adf-b5e9-fdb1668f0ce7" width="80" height="70" alt="Redis" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/3e8b090b-7d3c-4adf-b5e9-fdb1668f0ce7" width="40" height="40" alt="Redis" />
 </a>
 &nbsp;&nbsp;
 
@@ -119,12 +119,12 @@ Description goes here
 
 ### API Architectural Styles
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c1aed4f1-ac15-4eaa-bf8b-cb49f824f29a" width="170" height="70" alt="RESTful API" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c1aed4f1-ac15-4eaa-bf8b-cb49f824f29a" width="120" height="40" alt="RESTful API" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8583b3cb-2acb-4e41-9076-5d0b2c1dc4d8" width="70" height="70" alt="GraphQL" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8583b3cb-2acb-4e41-9076-5d0b2c1dc4d8" width="40" height="40" alt="GraphQL" />
 </a>
 
 <!--
@@ -137,65 +137,72 @@ Description goes here
 
 
 ### DevOps & Microservices
-<a href="" target="_blank" title="Docker" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/edf35d23-fd56-4c65-be7b-d0ffd0d192b5" width="80" height="80" alt="Docker" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Kubernetes" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8a03af52-1a37-4a31-897c-740f3ce348a1" width="80" height="80" alt="Kubernetes" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Prometheus" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c8b6e99a-8af1-4849-bac8-89b41716ad5e" width="70" height="70" alt="Prometheus" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Grafana" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c5064ff1-81a5-4864-8a9c-33a9ae298270" width="70" height="70" alt="Grafana" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Grafana Loki" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/50f7e6e5-868f-4e67-8a11-5f3eafc5219a" width="120" height="70" alt="Grafana Loki" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Jenkins" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/454949d5-15f8-420e-a0ab-ffb4782e6acd" width="60" height="70" alt="Jenkins" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Ansible" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f79ef476-ec97-4335-8890-ff1be5833cf2" width="70" height="70" alt="Ansible" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="Terraform" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/77f63f0f-be06-4bd7-942a-e16c7cae8d27" width="80" height="80" alt="Terraform" />
-</a>
-&nbsp;&nbsp;
-
-<a href="" target="_blank" title="CICD" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/eb527fa0-29a4-47c3-862f-dfa0aeed12a4" width="200" height="70" alt="CICD" />
-</a>
-&nbsp;&nbsp;
-
 <a href="" target="_blank" title="RabbitMQ" rel="noreferrer">
-    <img src="https://github.com/harsh-solanki21/coding/assets/52111635/d92d5ac2-b45a-425f-94a7-bc3dd8dbf84c" width="80" height="80" alt="RabbitMQ" />
+    <img src="https://github.com/harsh-solanki21/coding/assets/52111635/d92d5ac2-b45a-425f-94a7-bc3dd8dbf84c" width="40" height="40" alt="RabbitMQ" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="Git" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/321fdc54-1c57-4489-ac17-d23f61781be6" width="150" height="70" alt="Kafka" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/321fdc54-1c57-4489-ac17-d23f61781be6" width="80" height="40" alt="Kafka" />
 </a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Docker" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/edf35d23-fd56-4c65-be7b-d0ffd0d192b5" width="40" height="40" alt="Docker" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Kubernetes" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8a03af52-1a37-4a31-897c-740f3ce348a1" width="40" height="40" alt="Kubernetes" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Grafana" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c5064ff1-81a5-4864-8a9c-33a9ae298270" width="40" height="40" alt="Grafana" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Grafana Loki" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/50f7e6e5-868f-4e67-8a11-5f3eafc5219a" width="60" height="40" alt="Grafana Loki" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Prometheus" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c8b6e99a-8af1-4849-bac8-89b41716ad5e" width="40" height="40" alt="Prometheus" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Jenkins" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/454949d5-15f8-420e-a0ab-ffb4782e6acd" width="40" height="40" alt="Jenkins" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="GitHub-Actions" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/coding/assets/52111635/dedd17e3-2923-41a9-b330-3eb39b978ffb" width="50" height="40" alt="GitHub-Actions" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="CICD" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/eb527fa0-29a4-47c3-862f-dfa0aeed12a4" width="100" height="40" alt="CICD" />
+</a>
+&nbsp;&nbsp;
+
+<a href="" target="_blank" title="Terraform" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/77f63f0f-be06-4bd7-942a-e16c7cae8d27" width="40" height="40" alt="Terraform" />
+</a>
+
+<!--
+<a href="" target="_blank" title="Ansible" rel="noreferrer">
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f79ef476-ec97-4335-8890-ff1be5833cf2" width="40" height="40" alt="Ansible" />
+</a>
+&nbsp;&nbsp;
+-->
 
 
 
 ### Cloud
 <a href="" target="_blank" title="AWS" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c54f86e2-153b-48d0-b18e-9d7603b924f0" width="120" height="70" alt="AWS" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c54f86e2-153b-48d0-b18e-9d7603b924f0" width="80" height="40" alt="AWS" />
 </a>
 &nbsp;&nbsp;
 
@@ -203,22 +210,22 @@ Description goes here
 
 ### Version Control
 <a href="" target="_blank" title="Git" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/129e9248-1ee6-4a5e-b664-4f4688da4394" width="70" height="70" alt="Git" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/129e9248-1ee6-4a5e-b664-4f4688da4394" width="40" height="40" alt="Git" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="GitHub" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f22001c9-ced4-4267-b540-5072b53c0386" width="70" height="70" alt="GitHub" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f22001c9-ced4-4267-b540-5072b53c0386" width="40" height="40" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="GitLab" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/fc3c6533-3764-4a6a-96d2-bb763ce7c9c3" width="70" height="70" alt="GitLab" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/fc3c6533-3764-4a6a-96d2-bb763ce7c9c3" width="40" height="40" alt="GitLab" />
 </a>
 &nbsp;&nbsp;
 
 <a href="" target="_blank" title="BitBucket" rel="noreferrer">
-  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/31bfc6e0-8a3f-4f33-ad44-8384eda02a3c" width="70" height="70" alt="BitBucket" />
+  <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/31bfc6e0-8a3f-4f33-ad44-8384eda02a3c" width="40" height="40" alt="BitBucket" />
 </a>
 <br /> <br />
 
