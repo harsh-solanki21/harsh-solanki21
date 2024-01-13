@@ -13,7 +13,7 @@ Full-Stack | DevOps
 Description goes here
 -->
 * 🌍 I'm based in India
-* 🚀 Currently working on: Full-Stack Development
+* 🚀 Currently working on: Full-Stack App, DevOps, Microservices
 * 🧠 Ask me about: Data Structures & Algorithms, Database Management System, System Design
 * 🤝 I'm open to collaborating on Open Source, Interesting Projects
 * ⚡ Fun Fact: I'm a developer, but not a fan of coffee. (Stereotype)
@@ -26,9 +26,15 @@ Description goes here
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 ## Skills 🛠️
 
 ### Programming
+
+[![SkillIcons](https://skillicons.dev/icons?i=java,cpp,c)](https://github.com/harsh-solanki21)
+<br/>
+
+<!--
 <a href="" target="_blank" title="Java" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f048e517-194a-4a5b-811d-d9d6e98beaa5" width="30" height="50" alt="Java" />
 </a>
@@ -42,6 +48,7 @@ Description goes here
 <a href="" target="_blank" title="C" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8ffeb822-157f-40ce-8d26-d95ca84dd3b6" width="40" height="40" alt="C" />
 </a>
+-->
 
 <!--
 &nbsp;&nbsp;
@@ -50,7 +57,12 @@ Description goes here
 
 
 
-### Development
+### Development Stack
+
+[![SkillIcons](https://skillicons.dev/icons?i=ts,js,nodejs,express,go,react,redux,nextjs,graphql,apollo,prisma,jest,linux,git,github)](https://github.com/harsh-solanki21)
+<br/>
+
+<!--
 <a href="" target="_blank" title="NodeJS" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/ab030923-4f4b-4d82-b58c-a41a7b3e5810" width="70" height="40" alt="NodeJS" />
 </a>
@@ -79,6 +91,7 @@ Description goes here
 <a href="" target="_blank" title="Golang" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/f0fd0b16-19e0-484b-823e-cf1f640847c0" width="100" height="40" alt="Go" />
 </a>
+-->
 
 <!--
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
@@ -89,6 +102,11 @@ Description goes here
 
 
 ### Databases
+
+[![SkillIcons](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,cassandra)](https://github.com/harsh-solanki21)
+<br/>
+
+<!--
 <a href="" target="_blank" title="MongoDB" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/e39ed90f-92b7-43d6-88e7-3dd0edea7c23" width="150" height="40" alt="MongoDB" />
 </a>
@@ -108,6 +126,7 @@ Description goes here
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/3e8b090b-7d3c-4adf-b5e9-fdb1668f0ce7" width="40" height="40" alt="Redis" />
 </a>
 &nbsp;&nbsp;
+-->
 
 <!--
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
@@ -117,7 +136,9 @@ Description goes here
 
 
 
-### API Architectural Styles
+<!--
+### API Architectural 
+
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c1aed4f1-ac15-4eaa-bf8b-cb49f824f29a" width="120" height="40" alt="RESTful API" />
 </a>
@@ -126,6 +147,7 @@ Description goes here
 <a href="" target="_blank" title="NextJS" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/8583b3cb-2acb-4e41-9076-5d0b2c1dc4d8" width="40" height="40" alt="GraphQL" />
 </a>
+-->
 
 <!--
 &nbsp;&nbsp;
@@ -137,6 +159,11 @@ Description goes here
 
 
 ### DevOps & Microservices
+
+[![SkillIcons](https://skillicons.dev/icons?i=rabbitmq,kafka,aws,docker,kubernetes,nginx,grafana,prometheus,githubactions,jenkins,terraform,ansible)](https://github.com/harsh-solanki21)
+<br/>
+
+<!--
 <a href="" target="_blank" title="RabbitMQ" rel="noreferrer">
     <img src="https://github.com/harsh-solanki21/coding/assets/52111635/d92d5ac2-b45a-425f-94a7-bc3dd8dbf84c" width="40" height="40" alt="RabbitMQ" />
 </a>
@@ -190,6 +217,7 @@ Description goes here
 <a href="" target="_blank" title="Terraform" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/77f63f0f-be06-4bd7-942a-e16c7cae8d27" width="40" height="40" alt="Terraform" />
 </a>
+-->
 
 <!--
 <a href="" target="_blank" title="Ansible" rel="noreferrer">
@@ -200,15 +228,20 @@ Description goes here
 
 
 
+<!--
 ### Cloud
+
 <a href="" target="_blank" title="AWS" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/c54f86e2-153b-48d0-b18e-9d7603b924f0" width="80" height="40" alt="AWS" />
 </a>
 &nbsp;&nbsp;
+-->
 
 
 
+<!--
 ### Version Control
+
 <a href="" target="_blank" title="Git" rel="noreferrer">
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/129e9248-1ee6-4a5e-b664-4f4688da4394" width="40" height="40" alt="Git" />
 </a>
@@ -228,14 +261,24 @@ Description goes here
   <img src="https://github.com/harsh-solanki21/harsh-solanki21/assets/52111635/31bfc6e0-8a3f-4f33-ad44-8384eda02a3c" width="40" height="40" alt="BitBucket" />
 </a>
 <br /> <br />
+-->
+
+
+
+### Others
+
+[![SkillIcons](https://skillicons.dev/icons?i=tauri,electron,elasticsearch,firebase,sass,tailwind,babel,bash,vim,postman,visualstudio,vscode,idea)](https://github.com/harsh-solanki21)
+<br/>
 
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 ## Badges 🔦
 
-#### My GitHub Stats
+#### GitHub Stats ⚡
+
 <a href="http://www.github.com/harsh-solanki21">
      <img src="https://github-readme-stats.vercel.app/api?username=harsh-solanki21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harsh-solanki21's GitHub stats" />
 </a>
@@ -255,18 +298,20 @@ Description goes here
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 ## Other Profiles 👦
 
 #### Leetcode Profile
 👨🏽‍💻 [LeetCode](https://leetcode.com/harsh2105/) <br> 
 
-#### If you're chess enthusiast,
+#### If you're a chess enthusiast,
 ♙ Challenge me on [Chess.com](https://www.chess.com/member/harshstriker) <br>
 
 
 <br /><br />
 
 ## Contact me 📫📧
+<!--
 <a href="mailto:harsh.solanki2105@gmail.com" target="_blank" title="harsh.solanki2105@gmail.com" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30" />
 </a>
@@ -281,6 +326,12 @@ Description goes here
   <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30" />
 </a>
 &nbsp;&nbsp;
+-->
+
+[![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:harsh.solanki2105@gmail.com) &nbsp;
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshsolanki2105/) &nbsp;
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harsh_thedev)
+<br/>
 
 
 
@@ -309,9 +360,3 @@ Description goes here
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/harsh-solanki21/count.svg" />
 </p>
-
-<!--
-# My Flagship Projects
-- [Sorting Visualizer](https://github.com/harsh-solanki21/sorting-visualizer)
-- [E-commerce(Amazon) Low-Level-Design](https://github.com/harsh-solanki21/Amazon-LLD)
--->
