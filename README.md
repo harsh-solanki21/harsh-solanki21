@@ -1,17 +1,17 @@
 <p align="center"> 
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=4000&pause=10000&lines=<Hi+there!+👋+I'm+Harsh+Solanki>">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=4000&pause=10000&lines=<Hi+there!+👋+I'm+Harsh+Solanki>">
 </p>
 
-Full-Stack | DevOps
-----------------------
+Full-Stack Engineer | DevOps
+------------------------------
 <!--
 Description goes here
 -->
 * 🌍 I'm based in India
-* 🚀 Currently working on: Full-Stack App, DevOps, Microservices
-* 🧠 Ask me about: Data Structures & Algorithms, Database Management System, System Design
+* 🚀 Currently working on: Video Transcoding App (AI Powered)
+* 🧠 Ask me about: Microservice Architecture, System Design
 * 🤝 I'm open to collaborating on Open Source, Interesting Projects
-* ⚡ Fun Fact: I'm a developer, but not a fan of coffee. (Stereotype)
+* ⚡ Fun Fact: I'm a developer, but not a fan of coffee. (Stereotypical)
 <!--
 * 💻  See my portfolio at [LinkedIn](http://github.com/harsh-solanki21)
 * 📧  You can contact me at my [Email](mailto:harsh.solanki2105@gmail.com)
@@ -97,7 +97,7 @@ Description goes here
 
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:harsh.solanki2105@gmail.com) &nbsp;
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshsolanki2105/) &nbsp;
-[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harsh_thedev)
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harsh21_tw)
 <br/>
 
 
