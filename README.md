@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&color=BF91F3&background=1A1B27&center=true&vCenter=true&width=900&duration=3500&pause=800&lines=Hi+there!+👋+I'm+Harsh+Solanki;Lead+Full-Stack+Engineer;Generative+AI+%7C+System+Architect;DevOps+%7C+Microservices+%7C+Mobile" alt="Typing intro" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=52&color=BF91F3&background=1A1B27&center=true&vCenter=true&width=900&height=70&duration=4000&pause=10000&lines=Hi+there!+%F0%9F%91%8B+I%27m+Harsh" alt="Typing intro" />
 </p>
 
 <p align="center">
