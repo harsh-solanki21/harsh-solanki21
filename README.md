@@ -1,111 +1,99 @@
-<p align="center"> 
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=4000&pause=10000&lines=<Hi+there!+👋+I'm+Harsh+Solanki>">
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&color=BF91F3&background=1A1B27&center=true&vCenter=true&width=900&duration=3500&pause=800&lines=Hi+there!+👋+I'm+Harsh+Solanki;Lead+Full-Stack+Engineer;Generative+AI+%7C+System+Architect;DevOps+%7C+Microservices+%7C+Mobile" alt="Typing intro" />
 </p>
 
-Full-Stack Engineer | DevOps
-------------------------------
-<!--
-Description goes here
--->
-* 🌍 I'm based in India
-* 🚀 Currently working on: Video Transcoding App (AI Powered)
-* 🧠 Ask me about: Microservice Architecture, System Design
-* 🤝 I'm open to collaborating on Open Source, Interesting Projects
-* ⚡ Fun Fact: I'm a developer, but not a fan of coffee. (Stereotypical)
-<!--
-* 💻  See my portfolio at [LinkedIn](http://github.com/harsh-solanki21)
-* 📧  You can contact me at my [Email](mailto:harsh.solanki2105@gmail.com)
--->
+<p align="center">
+  <a href="mailto:harsh.solanki2105@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/harshsolanki2105/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/harsh21ai"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://leetcode.com/harsh2105/"><img src="https://img.shields.io/badge/LeetCode-1A1B27?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=harsh-solanki21&style=for-the-badge&color=BF91F3&label=Profile+Views" alt="Profile views" /> -->
+</p>
 
-<br />
+## 👨‍💻 About Me
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+**Lead Full-Stack Engineer | Generative AI | System Architect | DevOps**
 
+I design and lead the build of scalable products, from system architecture and microservices to AI-powered features, mobile apps and the cloud infrastructure that runs them.
 
-## Skills 🛠️
+- 🌍 Based in **India**
+- 🚀 Currently building: **Productivity App**
+- 🧠 Ask me about: **Microservice Architecture, System Design, Generative AI**
+- 🤝 Open to collaborating on **open-source & interesting projects**
+- ⚡ Fun fact: I'm a developer who isn't a fan of coffee ☕🚫
 
-### Programming
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" />
 
-[![SkillIcons](https://skillicons.dev/icons?i=ts,go,java,cpp,c)](https://github.com/harsh-solanki21)
-<br/>
+## 🛠️ Tech Stack
 
+### 💻 Languages
 
-### Development Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,java,cpp,c,swift,bash&theme=dark" alt="Languages" />
+</p>
 
-[![SkillIcons](https://skillicons.dev/icons?i=nodejs,express,nextjs,react,redux,graphql,apollo,jest,linux,git,github)](https://github.com/harsh-solanki21)
-<br/>
+### ⚙️ Backend
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql,apollo&theme=dark" alt="Backend" />
+</p>
 
-### Databases
+### 🎨 Frontend
 
-[![SkillIcons](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,cassandra)](https://github.com/harsh-solanki21)
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,babel&theme=dark" alt="Frontend" />
+</p>
 
+### 📱 Mobile Development
 
-### DevOps & Microservices
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,swift,xcode,apple,firebase&theme=dark" alt="Mobile" />
+</p>
 
-[![SkillIcons](https://skillicons.dev/icons?i=kafka,rabbitmq,aws,docker,kubernetes,nginx,grafana,prometheus,githubactions,jenkins,terraform,ansible)](https://github.com/harsh-solanki21)
-<br/>
+### 🤖 Generative AI
 
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,huggingface,claude,chatgpt,gemini,ollama,pytorch&theme=dark" alt="Generative AI" />
+</p>
 
-### Others
+### 🗄️ Databases
 
-[![SkillIcons](https://skillicons.dev/icons?i=tauri,electron,elasticsearch,firebase,sass,tailwind,babel,bash,vim,postman,visualstudio,vscode,idea)](https://github.com/harsh-solanki21)
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,cassandra,elasticsearch&theme=dark" alt="Databases" />
+</p>
 
+### ☁️ DevOps & Microservices
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,jenkins,nginx,kafka,rabbitmq,grafana,prometheus&perline=12&theme=dark" alt="DevOps" />
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 🧰 Tools & Others
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,jest,postman,tauri,electron,vim,vscode,idea,visualstudio&theme=dark" alt="Tools" />
+</p>
 
-## Badges 🔦
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" />
 
-#### GitHub Stats ⚡
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/harsh-solanki21">
-     <img src="https://github-readme-stats.vercel.app/api?username=harsh-solanki21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harsh-solanki21's GitHub stats" />
-</a>
-<br /> <br />
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-solanki21&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-solanki21&theme=tokyonight" alt="Top languages" />
+</p>
 
-<a href="http://www.github.com/harsh-solanki21">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-solanki21&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" />
-</a>
-<br /> <br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harsh-solanki21&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<!--
-<a href="https://github.com/harsh-solanki21" align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-solanki21&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-<br /> <br />
--->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="divider" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🌐 Beyond Code
 
+- 👨🏽‍💻 Solving problems on [LeetCode](https://leetcode.com/harsh2105/)
+- ♟️ Chess enthusiast? Challenge me on [Chess.com](https://www.chess.com/member/harshstriker)
 
-## Other Profiles 👦
-
-#### Leetcode Profile
-👨🏽‍💻 [LeetCode](https://leetcode.com/harsh2105/) <br> 
-
-#### If you're a chess enthusiast,
-♙ Challenge me on [Chess.com](https://www.chess.com/member/harshstriker) <br>
-
-
-<br />
-
-## Contact me 📫📧
-
-[![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:harsh.solanki2105@gmail.com) &nbsp;
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshsolanki2105/) &nbsp;
-[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://twitter.com/harsh21_tw)
-<br/>
-
-
-<br />
-
-- I am looking forward to absorb knowledge🧠 from industry experts👨, gain experience 🚀, collaborate🤝 and build amazing products 🏭 for the world🌍!
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/harsh-solanki21/count.svg" />
+<p align="center">
+  <i>Always eager to learn from industry experts, collaborate, and build products that make a difference. 🚀</i>
 </p>
